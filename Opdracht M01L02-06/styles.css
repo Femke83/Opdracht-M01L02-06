@@ -1,0 +1,24 @@
+body {
+    color:purple;
+    background-color: aliceblue;
+}
+.black-border{
+    border:2px dotted black;
+}
+#green-background{
+    background-color: rgb(121, 168, 230);
+}
+.main_font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: normal 16px
+    
+}
+#img_photo {
+    border: 3px solid #999;
+	background-color:brown;
+    padding: 8px;
+}
+.img_home{
+    border: 6px solid #999;
+    
+}
